@@ -1,5 +1,5 @@
 # SeedFormant
-Seeding method for formant measurements using linear predictive coding (LPC).
+Seeding method for formant measurements
 - This method dynamically assigns vowel/segment-specific reference values for formant tracking. 
 - This is a MATLAB code for calling Praat to run the LPC algorithm and Vitebi tracking with dynamic formant references (seeding method), instead of the default, schwa-like formant references. 
 
