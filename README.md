@@ -5,10 +5,15 @@ Seeding method for formant measurements
 
 - You need to download Praat executive according to your OS and put it in the corresponding folder.
 Specifically, you need to download and put in one of the following:
+
 ./praat/windows/Praat.exe
+
 ./praat/mac/Praat.app
+
 ./praat/unix/praat
+
 Praat website:
+
 https://www.fon.hum.uva.nl/praat/
 
 <!-- - A tutorial video can be downloaded here:
