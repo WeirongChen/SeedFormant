@@ -12,9 +12,7 @@ Specifically, you need to download and put in one of the following:
 
 ./praat/unix/praat
 
-Praat website:
-
-https://www.fon.hum.uva.nl/praat/
+Praat website: https://www.fon.hum.uva.nl/praat/
 
 <!-- - A tutorial video can be downloaded here:
  [SeedFormant tutorial](https://yaleedu-my.sharepoint.com/:v:/g/personal/wei-rong_chen_yale_edu/EUHwgnx0VfJGpdY2lIHEVZ8BTw-rFqL1MNRlpqNJzU2x3w?e=t3i9xG)   -->
