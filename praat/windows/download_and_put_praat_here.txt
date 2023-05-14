@@ -1,0 +1,3 @@
+Download Praat for Windows and put it here.
+Praat website:
+https://www.fon.hum.uva.nl/praat/
