@@ -13,7 +13,8 @@ https://www.fon.hum.uva.nl/praat/
 
 <!-- - A tutorial video can be downloaded here:
  [SeedFormant tutorial](https://yaleedu-my.sharepoint.com/:v:/g/personal/wei-rong_chen_yale_edu/EUHwgnx0VfJGpdY2lIHEVZ8BTw-rFqL1MNRlpqNJzU2x3w?e=t3i9xG)   -->
-
+#### For now, to cite DeepEdge:
+- Chen, W.-R., Whalen, D. H., & Shadle, C. H. (2019). F0-induced formant measurement errors result in biased variabilities. The Journal of the Acoustical Society of America, 145(5), EL360-EL366. https://doi.org/10.1121/1.5103195 
 ####
 ---------------------------------------
 
