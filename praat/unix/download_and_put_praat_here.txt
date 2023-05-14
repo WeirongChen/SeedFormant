@@ -1,0 +1,3 @@
+Download Praat for Unix/Linux and put it here.
+Praat website:
+https://www.fon.hum.uva.nl/praat/
