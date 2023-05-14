@@ -11,8 +11,14 @@ Specifically, you need to download and put in one of the following:
 Praat website:
 https://www.fon.hum.uva.nl/praat/
 
+- A tutorial video can be downloaded here:
+- [SeedFormant tutorial](https://yaleedu-my.sharepoint.com/:v:/g/personal/wei-rong_chen_yale_edu/EUHwgnx0VfJGpdY2lIHEVZ8BTw-rFqL1MNRlpqNJzU2x3w?e=t3i9xG)  
 
 
-
+### COPYRIGHT, LICENSE & DISCLAIMER
+Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen@yale.edu>  
+This program is free software under GNU General Public License, version 3.  
+This program is distributed WITHOUT ANY FORM of EXPRESS or IMPLIED WARRANTY and ANY SUPPORT.    
+See the GNU General Public License for more details.  
 
 
