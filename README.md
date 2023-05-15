@@ -22,7 +22,7 @@ Praat website: https://www.fon.hum.uva.nl/praat/
 ---------------------------------------
 #### Compare seeded vs. unseeded (default) methods:
 
-<p align="center"><img src="./figures/compare_seeded_unseeded.png" width="550"></p>
+<p align="left"><img src="./figures/compare_seeded_unseeded.png" width="350"></p>
 
 
 ---------------------------------------
