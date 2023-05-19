@@ -27,7 +27,7 @@ Praat website: https://www.fon.hum.uva.nl/praat/
 
 ---------------------------------------
 ### COPYRIGHT, LICENSE & DISCLAIMER
-Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen@yale.edu>  
+Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen[AT]yale.edu>  
 This program is free software under GNU General Public License, version 3.  
 This program is distributed WITHOUT ANY FORM of EXPRESS or IMPLIED WARRANTY and ANY SUPPORT.    
 See the GNU General Public License for more details.  
